@@ -49,5 +49,4 @@ $(document).ready(function () {
     });
   }
   timeChange();
-  var timeInterval = setInterval(timeChange, 1000);
 });
