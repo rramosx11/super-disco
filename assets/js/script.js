@@ -1,15 +1,3 @@
-// var dateToday = document.querySelector("#currentDay");
-// var currentTime = moment();
-
-// dateToday.textContent =
-//   currentTime.format("dddd") +
-//   "," +
-//   currentTime.format("MMM DD, YYYY - hh:mm:ss a");
-
-// $("#currentDay").text(
-//   moment().format("dddd") + ", " + moment().format("MMMM Do YYYY, h:mm:ss a")
-// );
-
 $(document).ready(function () {
   $("#currentDay").text(
     moment().format("dddd") + ", " + moment().format("MMMM Do YYYY, h:mm:ss a")
