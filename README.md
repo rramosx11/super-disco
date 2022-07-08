@@ -1,4 +1,4 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler Description
 
 This webpage is a daily planner used to manage your time effectively. You can add text to the planner and save it to the local storage with the button. The planner is also color coated to indicate the current time vs the time of timeblocks. The eventd are still appear on the page after a refresh.
 
@@ -27,3 +27,5 @@ THEN the saved events persist
 ## Deployed URL/Screenshot
 
 https://rramosx11.github.io/super-disco/
+
+![Screenshot](https://github.com/rramosx11/super-disco/blob/main/assets/images/Super-Disco%20Screenshot.png)
